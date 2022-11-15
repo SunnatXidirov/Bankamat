@@ -1,2 +1,2 @@
 # Bankamat
-c++daBankamat
+c++ da kichkina Bankamat
